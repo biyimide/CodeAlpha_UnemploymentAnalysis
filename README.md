@@ -33,13 +33,24 @@ disparities, and compares rural versus urban unemployment patterns.
 - Labour participation rate dropped significantly during the lockdown period
 
 ## Visualizations
-- Unemployment rate over time (line plot)
-- COVID-19 impact comparison (pre vs during pandemic)
-- Average unemployment by region (bar chart)
-- Rural vs Urban unemployment (box plot)
-- Labour participation rate over time
-- Correlation heatmap
-- Monthly unemployment trend
+
+### Unemployment Rate Over Time
+![Unemployment Rate Over Time](Unemployment_lineplot.png)
+
+### COVID-19 Impact
+![COVID-19 Impact](unemployment_covid_impact.png)
+
+### Average Unemployment by Region
+![Average Unemployment by Region](average_unemployment_by_region.png)
+
+### Rural vs Urban Unemployment
+![Rural vs Urban](unemployment_rural_urban.png)
+
+### Labour Participation Rate
+![Labour Participation Rate](labour_participation_rate.png)
+
+### Monthly Unemployment Trend
+![Monthly Trend](monthly_unemployment_trend.png)
 
 ## Project Structure
 CodeAlpha-Data-Science-Internship/
